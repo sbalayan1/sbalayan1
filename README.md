@@ -10,20 +10,20 @@ Full Stack Web Developer with a background as a Hedge Fund Associate. Passion fo
 
 ## Projects
 ____________________
-:video_game: PokemonBrawl Demo | Repo
-- *Mock Pokemon application with full battle, catching, and team building functionality.*
+PokemonBrawl Demo | Repo
+:video_game: *Mock Pokemon application with full battle, catching, and team building functionality.*
 
-:coffee: DevBrothersCoffee Demo | Repo
-- *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans.*
+DevBrothersCoffee Demo | Repo
+:coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans.*
 
-:dog: SJ Animal Shelter Demo | Repo
-- *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters.*
+SJ Animal Shelter Demo | Repo
+:dog: *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters.*
 
-:joystick: LolBuilderPro Demo | Repo
-- *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions.*
+LolBuilderPro Demo | Repo
+:joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions.*
 
-:laughing: MemeProject Demo | Repo 
-- *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes.*
+MemeProject Demo | Repo 
+:laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes.*
 
 ## Contact Me 📫
 ____________________
