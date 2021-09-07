@@ -10,20 +10,20 @@ Full Stack Web Developer with a background as a Hedge Fund Associate. Passion fo
 
 ## Projects
 ____________________
-PokemonBrawl Demo | Repo
-:video_game: *Mock Pokemon application with full battle, catching, and team building functionality.*
+PokemonBrawl Demo | [Repo](https://github.com/sbalayan1/pokemon_brawl)
+- :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
-DevBrothersCoffee Demo | Repo
-:coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans.*
+DevBrothersCoffee Demo | [Repo](https://github.com/sbalayan1/dev_brothers_coffee)
+- :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
 
-SJ Animal Shelter Demo | Repo
-:dog: *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters.*
+SJ Animal Shelter Demo | [Repo](https://github.com/sbalayan1/sj-animal-shelter)
+- :dog: *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters. Ruby/Rack and TTY Prompt*
 
-LolBuilderPro Demo | Repo
-:joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions.*
+LolBuilderPro Demo | [Repo](https://github.com/garrettbourque/lolbuilderpro)
+- :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
 
-MemeProject Demo | Repo 
-:laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes.*
+MemeProject Demo | [Repo](https://github.com/sbalayan1/memeProject)
+- :laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes. Vanilla JS*
 
 ## Contact Me 📫
 ____________________
