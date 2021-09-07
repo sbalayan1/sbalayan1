@@ -1,4 +1,4 @@
-### Hi there I'm Sean Balayan!  👋
+### Hi I'm Sean Balayan! Welcome to my GitHub 👋
 
 - 🔭 I’m currently working on updating past projects and my online presence. 
 - 🌱 I’m currently learning Redux. 
