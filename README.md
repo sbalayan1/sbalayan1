@@ -22,7 +22,7 @@ SJ Animal Shelter Demo coming soon| [Repo](https://github.com/sbalayan1/sj-anima
 LolBuilderPro Demo coming soon| [Repo](https://github.com/garrettbourque/lolbuilderpro)
 - :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
 
-MemeProject Demo | [Repo](https://github.com/sbalayan1/memeProject)
+MemeProject Demo coming soon| [Repo](https://github.com/sbalayan1/memeProject)
 - :laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes. Vanilla JS*
 
 ## Contact Me 📫
