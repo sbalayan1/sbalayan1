@@ -10,19 +10,19 @@ Full Stack Web Developer with a background as a Hedge Fund Associate. Passion fo
 
 ## Projects
 ____________________
-PokemonBrawl Demo coming soon | [Repo](https://github.com/sbalayan1/pokemon_brawl)
+PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | Demo coming soon
 - :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
-DevBrothersCoffee Demo coming soon| [Repo](https://github.com/sbalayan1/dev_brothers_coffee)
+DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
 - :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
 
-SJ Animal Shelter Demo coming soon| [Repo](https://github.com/sbalayan1/sj-animal-shelter)
+SJ Animal Shelter [Repo](https://github.com/sbalayan1/sj-animal-shelter) | Demo coming soon
 - :dog: *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters. Ruby/Rack and TTY Prompt*
 
-LolBuilderPro Demo coming soon| [Repo](https://github.com/garrettbourque/lolbuilderpro)
+LolBuilderPro [Repo](https://github.com/garrettbourque/lolbuilderpro) | Demo coming soon
 - :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
 
-MemeProject Demo coming soon| [Repo](https://github.com/sbalayan1/memeProject)
+MemeProject [Repo](https://github.com/sbalayan1/memeProject) | Demo coming soon
 - :laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes. Vanilla JS*
 
 ## Contact Me 📫
