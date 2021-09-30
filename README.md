@@ -10,7 +10,7 @@ Full Stack Web Developer with a background as a Hedge Fund Associate. Passion fo
 
 ## Projects
 ____________________
-PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | Demo coming soon
+PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo] (https://www.loom.com/share/d5a1338edc5e44c9af19149239ee4b51)
 - :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
 DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
