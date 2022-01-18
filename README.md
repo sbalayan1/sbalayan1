@@ -3,7 +3,7 @@ __________________
 Full Stack Web Developer with a background as a Hedge Fund Associate. Passion for learning and helping those around me grow. To your team, I bring a plethora of skills stemming from my backgrounds in Finance, cooking, coffee, dance, and code.
 
 - 🔭 I’m currently working on Grokking the Coding Interview via Educative.
-- 🌱 I’m currently learning about more Data Structures and Algorithms. 
+- 🌱 I’m currently learning about more Data Structures and Algorithms
 - 💬 Ask me about my experience at Flatiron School and future goals and plans!
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I trade options and dance daily!!
