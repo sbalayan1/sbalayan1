@@ -16,8 +16,8 @@ PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https:/
 DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
 - :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
 
-SJ Animal Shelter [Repo](https://github.com/sbalayan1/sj-animal-shelter) | Demo coming soon
-- :dog: *Animal shelter application that connects users to adoptable cats and dogs at their nearby shelters. Ruby/Rack and TTY Prompt*
+Vending Machine [Repo](https://github.com/sbalayan1/vending_machine) | Demo coming soon
+- 🍹: *This is a Vending Machine CLI application using only Ruby.*
 
 LolBuilderPro [Repo](https://github.com/garrettbourque/lolbuilderpro) | Demo coming soon
 - :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
