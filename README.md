@@ -5,7 +5,6 @@ Full Stack Web Developer with a background as a Hedge Fund Associate. Passion fo
 - 🔭 I’m currently working on Grokking the Coding Interview via Educative.
 - 🌱 I’m currently learning about more Data Structures and Algorithms
 - 💬 Ask me about my experience at Flatiron School and future goals and plans!
-- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I trade options and dance daily!!
 
 ## Projects
@@ -13,11 +12,11 @@ ____________________
 PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https://www.loom.com/share/d5a1338edc5e44c9af19149239ee4b51)
 - :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
-DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
-- :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
-
 Vending Machine [Repo](https://github.com/sbalayan1/vending_machine) | Demo coming soon
 - 🍹: *This is a Vending Machine CLI application using only Ruby.*
+
+DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
+- :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
 
 LolBuilderPro [Repo](https://github.com/garrettbourque/lolbuilderpro) | Demo coming soon
 - :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
