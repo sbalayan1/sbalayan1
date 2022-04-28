@@ -14,11 +14,11 @@ PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https:/
 Vending Machine [Repo](https://github.com/sbalayan1/vending_machine) | Demo coming soon
 - 🍹: *This is a Vending Machine CLI application using only Ruby.*
 
-DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
-- :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
-
 LolBuilderPro [Repo](https://github.com/garrettbourque/lolbuilderpro) | Demo coming soon
 - :joystick: *Web application that uses the League of Legends API to allow users to select, customize, and battle other champions. React*
+
+DevBrothersCoffee [Repo](https://github.com/sbalayan1/dev_brothers_coffee) | Demo coming soon
+- :coffee: *Coffee ordering application for specialty and customizable drinks as well as boutique coffee beans. React and Ruby on Rails*
 
 MemeProject [Repo](https://github.com/sbalayan1/memeProject) | Demo coming soon
 - :laughing: *SPA that incorporates HTML, CSS, JavaScript, Canvas, and an external meme API that lets users create custom memes. Vanilla JS*
