@@ -1,6 +1,6 @@
 ### Hi I'm Sean Balayan! Welcome to my GitHub 👋:fire:
 
-#########CHECK OUT MY PORTFOLIO SITE: https://sean-balayan-io.onrender.com/ 💻
+#### CHECK OUT MY PORTFOLIO SITE: https://sean-balayan-io.onrender.com/ 💻
 __________________
 Full Stack Web Developer with a background as a Hedge Fund Associate. Passion for learning and helping those around me grow. To your team, I bring a plethora of skills stemming from my backgrounds in Finance, cooking, coffee, dance, and code.
 
