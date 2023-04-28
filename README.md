@@ -13,7 +13,7 @@ ____________________
 Portfolio Tracker [Repo](https://github.com/sbalayan1/portfolio_tracker) | [Demo](https://www.loom.com/share/b51cf4868a1045c291b3a8815c490f4b) | [Web](https://portfolio-tracker-x0om.onrender.com/)
 - 💸*Portfolio Tracker is an options trading tracker that allows users to track and analyze their options trading as well as view their overall portfolio performance over multiple timeframes.*
 
-PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https://www.loom.com/share/d5a1338edc5e44c9af19149239ee4b51) | [Web](http://pokemon-brawl.herokuapp.com/)
+PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https://www.loom.com/share/d5a1338edc5e44c9af19149239ee4b51)
 - :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
 Vending Machine [Repo](https://github.com/sbalayan1/vending_machine) | Demo coming soon
