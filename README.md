@@ -13,6 +13,9 @@ ____________________
 Portfolio Tracker [Repo](https://github.com/sbalayan1/portfolio_tracker) | [Demo](https://www.loom.com/share/b51cf4868a1045c291b3a8815c490f4b) | [Web](https://portfolio-tracker-x0om.onrender.com/)
 - 💸*Portfolio Tracker is an options trading tracker that allows users to track and analyze their options trading as well as view their overall portfolio performance over multiple timeframes.*
 
+Gary the Discord Bot [Repo](https://github.com/sbalayan1/gary_the_discord_bot)
+- 🤖*Gary is a Discord Chat Bot that integrates ChatGPT. It provides dynamic command handling, event listeners for command interactions, and execution of various commands based on user interactions.
+
 PokemonBrawl [Repo](https://github.com/sbalayan1/pokemon_brawl) | [Demo](https://www.loom.com/share/d5a1338edc5e44c9af19149239ee4b51)
 - :video_game: *Mock Pokemon application with full battle, catching, and team building functionality. React and Ruby on Rails*
 
